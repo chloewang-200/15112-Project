@@ -1,0 +1,19 @@
+Open the project File
+From left to right
+
+- Draw Mode(Left)
+  - click on the cells to draw color
+  - click random to generate random maps
+  - click redraw for more maps
+  - click play to play the map
+  - click save to save the map
+  - from levels, click level 4 to load saved maps
+
+- Levels Mode(Middle)
+  - Level 1, 2, 3 provided
+  - level 4 - 9 are for users to save their own maps
+
+- Maze Mode(Right)
+  - Press "1" for DFS generator
+  - Press "2" for Prim generator
+  - Press "3" to exit
